@@ -5,4 +5,7 @@ branches:
 projects:
   CPE:
     path: ""
+    libs:
+      - src: muqsit/InvMenu/InvMenu
+        version: ^3.1.0
 ...
